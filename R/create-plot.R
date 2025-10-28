@@ -21,6 +21,7 @@ df %>%
 # Save the plot in graphics/
 ggsave(filename = "graphics/scatter-temp-humidity.png", plot = scatter_plot)
 
+color = 'purple'
 
 time_series =
   df %>%
