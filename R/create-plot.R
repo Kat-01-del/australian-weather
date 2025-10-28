@@ -10,7 +10,7 @@ df = read_csv("data/weatherAUS.csv")
 # a location
 #useful comment
 
-city = "Brisbane"
+city = "Sydney"
 
 scatter_plot = 
 df %>%
